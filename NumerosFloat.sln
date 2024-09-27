@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosFloat", "NumerosFloat\NumerosFloat.csproj", "{169AE9A9-2326-472B-924B-241C187B320D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169AE9A9-2326-472B-924B-241C187B320D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169AE9A9-2326-472B-924B-241C187B320D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169AE9A9-2326-472B-924B-241C187B320D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169AE9A9-2326-472B-924B-241C187B320D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01926724-DD0F-4714-83BE-41321F620ADE}
+	EndGlobalSection
+EndGlobal
